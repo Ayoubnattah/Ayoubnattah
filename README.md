@@ -98,10 +98,18 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+<a href="https://www.unwiredlearning.com/">
+  <img alt="Website" src="https://img.shields.io/badge/website-<i class='fas fa-globe'></i>-green">
+</a>
+<a href="https://www.linkedin.com/in/shubhamsarda/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-<i class='fab fa-linkedin'></i>-blue">
+</a>
+<a href="https://www.instagram.com/shubham.ul/">
+  <img alt="Instagram" src="https://img.shields.io/badge/instagram-<i class='fab fa-instagram'></i>-red">
+</a>
+<a href="https://twitter.com/shubham_ul">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-<i class='fab fa-twitter'></i>-blue">
+</a>
 </p>
 
 ---
@@ -116,10 +124,25 @@
 ### **🎨 Fun Section**
 
 #### **Random Dev Joke**
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&textColor=c9d1d9&qColor=1f6feb&aColor=1f6feb&borderColor=1f6feb)
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+  axios.get('https://api.jokes.one/jod')
+    .then(response => {
+      const joke = response.data.contents.jokes[0].joke.text;
+      document.getElementById('joke').innerText = joke;
+    })
+    .catch(error => {
+      document.getElementById('joke').innerText = "Why do programmers prefer dark mode? Because light attracts bugs! 🐛";
+    });
+</script>
+<p id="joke">Loading joke...</p>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+---
+
+<div align="center">
+  ### Spotify Playing 🎧
+  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify?background_color=0d1117&border_color=1f6feb&text_color=c9d1d9)](https://open.spotify.com/track/your-song-id)
+</div>
 
 ---
 
