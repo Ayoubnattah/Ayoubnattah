@@ -89,7 +89,7 @@
 
 ---
 
-### **🎧 Spotify Playing  
+### 🎧 Spotify Playing  
 <div style="text-align: center;">
   <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="In Rainbows Album Cover" width="100" style="display: inline-block; margin-right: 10px;" />
   <a href="https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f">
@@ -99,7 +99,7 @@
 
 ---
 
-### YT Videos
+### 📺 YT Videos
 
 <!-- YT-Video-LIST:START -->
 - [Being a Remote Developer - Understanding Pros and Cons of Working Remotely](https://www.youtube.com/watch?v=lAsmBDVPmEU)
@@ -110,7 +110,7 @@
 
 ---
 
-### **🤝🏻 &nbsp;Connect with Me 
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
 <a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
