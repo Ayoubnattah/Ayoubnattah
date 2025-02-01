@@ -89,8 +89,8 @@
 
 ---
 
-### Spotify Playing 🎧  
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK)
+### Spotify Album 🎧  
+[![Spotify](https://img.shields.io/badge/Spotify-In%20Rainbows%20(Album)-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f)
 
 ---
 
