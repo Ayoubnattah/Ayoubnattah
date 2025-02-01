@@ -90,7 +90,7 @@
 ---
 
 ### Spotify Playing 🎧  
-<div>
+<div style="text-align: center;">
   <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="In Rainbows Album Cover" width="100" style="display: inline-block; margin-right: 10px;" />
   <a href="https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f">
     <img src="https://img.shields.io/badge/Spotify-In%20Rainbows%20(Album)-1DB954?style=for-the-badge&logo=spotify" alt="Spotify" style="display: inline-block;" />
