@@ -12,13 +12,13 @@
 
 ### **✨ About Me**
 
-- 🔭 I’m currently working on **[Project Name]**.
-- 🌱 I’m currently learning **[New Technology/Skill]**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Web Development, Laravel, React.js, or anything tech-related**.
-- 📫 How to reach me: **[Your Email]** or **[LinkedIn Profile]**.
+- 🔭 I’m currently working on **[Project Name]** – a project that [brief description].
+- 🌱 I’m currently learning **[New Technology/Skill]**, diving deeper into [specific area].
+- 👯 I’m looking to collaborate on **Open Source Projects** related to [specific interest, e.g., web development, AI, etc.].
+- 💬 Ask me about **Web Development, Laravel, React.js, or anything tech-related** – I love sharing knowledge!
+- 📫 How to reach me: **[Your Email]** or connect with me on **[LinkedIn Profile]**.
 - 😄 Pronouns: **He/Him** or **She/Her**.
-- ⚡ Fun fact: **I’m fascinated by blue whales and the mysteries of the ocean!**
+- ⚡ Fun fact: **I’m fascinated by blue whales and the mysteries of the ocean!** Did you know blue whales are the largest animals to have ever existed? 🐋
 
 ---
 
@@ -74,6 +74,7 @@
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Ayoubnattah&theme=dark&background=0d1117&border=1f6feb&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak">
 </div>
+
 ---
 
 ### **🌟 Featured Projects**
@@ -95,21 +96,21 @@
 
 ---
 
-### 🌊 &nbsp;Connect with Me 
+### **🌊 Connect with Me**
 
 <p align="center">
-<a href="https://www.unwiredlearning.com/">
-  <img alt="Website" src="https://img.shields.io/badge/Website-🌐-00BFFF">
-</a>
-<a href="https://www.linkedin.com/in/shubhamsarda/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-🔗-0077B5">
-</a>
-<a href="https://www.instagram.com/shubham.ul/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-📸-E4405F">
-</a>
-<a href="https://twitter.com/shubham_ul">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-🐦-1DA1F2">
-</a>
+  <a href="https://www.yourwebsite.com/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-🌐-00BFFF">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-🔗-0077B5">
+  </a>
+  <a href="https://www.instagram.com/yourprofile/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-📸-E4405F">
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-🐦-1DA1F2">
+  </a>
 </p>
 
 ---
@@ -125,18 +126,12 @@
 
 #### **Random Dev Joke**
 
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<script>
-  axios.get('https://api.jokes.one/jod')
-    .then(response => {
-      const joke = response.data.contents.jokes[0].joke.text;
-      document.getElementById('joke').innerText = joke;
-    })
-    .catch(error => {
-      document.getElementById('joke').innerText = "Why do programmers prefer dark mode? Because light attracts bugs! 🐛";
-    });
-</script>
-<p id="joke">Loading joke...</p>
+```javascript
+// Fetching a joke for you...
+const joke = await fetchJoke();
+console.log(joke);
+```
+**Output**: Why do programmers prefer dark mode? Because light attracts bugs! 🐛
 
 ---
 
