@@ -1,6 +1,6 @@
 ![blue-removebg-preview-removebg-preview (1)](https://github.com/user-attachments/assets/34318852-749e-4458-bd9f-4d51e9dfc581)
 
-<h1 align="center">Hi there, I'm [Your Name]! 🐋</h1>
+<h1 align="center">Hi there, I'm Ayoub nattah! 🐋</h1>
 
 <h3 align="center">🌊 Full Stack Developer | Ocean Explorer | Blue Whale Enthusiast</h3>
 
@@ -89,60 +89,30 @@
 
 ---
 
-### **📝 Latest Blog Posts**
-
-- [How to Build a REST API with Laravel](https://your-blog.com/laravel-rest-api)
-- [Getting Started with React Hooks](https://your-blog.com/react-hooks)
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify?background_color=0d1117&border_color=1f6feb&text_color=c9d1d9)](https://open.spotify.com/track/3M7r2bJ0b7mhZPPc21BAlO)
 
 ---
 
-### **🌊 Connect with Me**
+### YT Videos
+
+<!-- YT-Video-LIST:START -->
+- [Being a Remote Developer - Understanding Pros and Cons of Working Remotely](https://www.youtube.com/watch?v=lAsmBDVPmEU)
+- [Where to get Remote Software Developer Job as a Fresher](https://www.youtube.com/watch?v=n-nbwb6s7ZE)
+- [How To Get An Internship In India? Tips For Computer Science Students](https://www.youtube.com/watch?v=F3kv-gpQPEA)
+- [Advice For Computer Science Students!](https://www.youtube.com/watch?v=OKXsaiwjx5M)
+<!-- YT-Video-LIST:END -->
+
+---
+
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-  <a href="https://www.yourwebsite.com/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-🌐-00BFFF">
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-🔗-0077B5">
-  </a>
-  <a href="https://www.instagram.com/yourprofile/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-📸-E4405F">
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-🐦-1DA1F2">
-  </a>
+<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
+<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
+<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
 </p>
-
----
-
-### **📈 Contribution Graph**
-
-<!-- GitHub Contribution Graph -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ayoubnattah&theme=blue-whale&bg_color=0d1117&color=00BFFF&line=00BFFF&point=c9d1d9)
-
----
-
-### **🎨 Fun Section**
-
-#### **Random Dev Joke**
-
-```javascript
-// Fetching a joke for you...
-const joke = await fetchJoke();
-console.log(joke);
-```
-**Output**: Why do programmers prefer dark mode? Because light attracts bugs! 🐛
-
----
-
-<div align="center">
-  ### Spotify Playing 🎧
-  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify?background_color=0d1117&border_color=1f6feb&text_color=c9d1d9)](https://open.spotify.com/track/your-song-id)
-</div>
-
-### **📊 Spotify Playing 🎧**
-
-<div align="center">[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)</div>
 
 ---
 
