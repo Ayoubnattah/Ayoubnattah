@@ -140,6 +140,10 @@ console.log(joke);
   [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify?background_color=0d1117&border_color=1f6feb&text_color=c9d1d9)](https://open.spotify.com/track/your-song-id)
 </div>
 
+### **📊 Spotify Playing 🎧**
+
+<div align="center">[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)</div>
+
 ---
 
 ⭐️ From [Your Name](https://github.com/Ayoubnattah)
