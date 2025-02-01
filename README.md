@@ -1,4 +1,4 @@
-![blue-whale-banner](https://github.com/user-attachments/assets/1a9411a7-e77e-4fb0-9832-9d3bee63c863)
+![blue-removebg-preview-removebg-preview (1)](https://github.com/user-attachments/assets/34318852-749e-4458-bd9f-4d51e9dfc581)
 
 <h1 align="center">Hi there, I'm [Your Name]! 🐋</h1>
 
@@ -49,6 +49,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -57,6 +58,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
+
+---
 
 ### **📊 GitHub Stats**
 
@@ -118,11 +121,3 @@
 ⭐️ From [Your Name](https://github.com/your-username)
 
 ---
-
-### **🎨 Theme Details**
-- **Primary Color**: `#1F6FEB` (Dark Blue)
-- **Background Color**: `#0D1117` (GitHub Dark Mode)
-- **Text Color**: `#C9D1D9` (Light Gray)
-- **Accent Color**: `#1F6FEB` (Blue Whale Theme)
-
-This theme is inspired by the deep ocean and the elegance of blue whales, creating a calm yet professional vibe. Let me know if you'd like further tweaks! 🐋
