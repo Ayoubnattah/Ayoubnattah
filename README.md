@@ -90,7 +90,7 @@
 ---
 
 ### Spotify Playing 🎧  
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7Jujd3P)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK)
 
 ---
 
