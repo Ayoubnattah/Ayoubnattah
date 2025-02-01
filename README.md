@@ -95,20 +95,20 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me 
+### 🌊 &nbsp;Connect with Me 
 
 <p align="center">
 <a href="https://www.unwiredlearning.com/">
-  <img alt="Website" src="https://img.shields.io/badge/Website-🌐-green">
+  <img alt="Website" src="https://img.shields.io/badge/Website-🌐-00BFFF">
 </a>
 <a href="https://www.linkedin.com/in/shubhamsarda/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-🔗-blue">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-🔗-0077B5">
 </a>
 <a href="https://www.instagram.com/shubham.ul/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-📸-red">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-📸-E4405F">
 </a>
 <a href="https://twitter.com/shubham_ul">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-🐦-blue">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-🐦-1DA1F2">
 </a>
 </p>
 
@@ -117,13 +117,14 @@
 ### **📈 Contribution Graph**
 
 <!-- GitHub Contribution Graph -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ayoubnattah&theme=react-dark&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ayoubnattah&theme=blue-whale&bg_color=0d1117&color=00BFFF&line=00BFFF&point=c9d1d9)
 
 ---
 
 ### **🎨 Fun Section**
 
 #### **Random Dev Joke**
+
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 <script>
   axios.get('https://api.jokes.one/jod')
