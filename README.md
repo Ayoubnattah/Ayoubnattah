@@ -99,16 +99,16 @@
 
 <p align="center">
 <a href="https://www.unwiredlearning.com/">
-  <img alt="Website" src="https://img.shields.io/badge/website-<i class='fas fa-globe'></i>-green">
+  <img alt="Website" src="https://img.shields.io/badge/Website-🌐-green">
 </a>
 <a href="https://www.linkedin.com/in/shubhamsarda/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-<i class='fab fa-linkedin'></i>-blue">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-🔗-blue">
 </a>
 <a href="https://www.instagram.com/shubham.ul/">
-  <img alt="Instagram" src="https://img.shields.io/badge/instagram-<i class='fab fa-instagram'></i>-red">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-📸-red">
 </a>
 <a href="https://twitter.com/shubham_ul">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-<i class='fab fa-twitter'></i>-blue">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-🐦-blue">
 </a>
 </p>
 
