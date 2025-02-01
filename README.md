@@ -89,8 +89,8 @@
 
 ---
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify?background_color=0d1117&border_color=1f6feb&text_color=c9d1d9)](https://open.spotify.com/track/3M7r2bJ0b7mhZPPc21BAlO)
+### Spotify Playing 🎧  
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7Jujd3P)
 
 ---
 
