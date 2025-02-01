@@ -60,15 +60,20 @@
 
 ### **📊 GitHub Stats**
 
-<!-- GitHub Stats Card -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayoubnattah&show_icons=true&theme=dark&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayoubnattah&show_icons=true&theme=dark&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats">
+</div>
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoubnattah&layout=compact&theme=dark&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9)
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoubnattah&layout=compact&theme=dark&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" alt="Top Languages">
+</div>
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayoubnattah&theme=dark&background=0d1117&border=1f6feb&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
-
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Ayoubnattah&theme=dark&background=0d1117&border=1f6feb&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak">
+</div>
 ---
 
 ### **🌟 Featured Projects**
