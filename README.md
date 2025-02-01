@@ -90,7 +90,7 @@
 ---
 
 ### Spotify Album 🎧  
-[![In Rainbows Album Cover](https://upload.wikimedia.org/wikipedia/en/2/2d/In_Rainbows_Official_Cover.jpg)](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f)  
+[![In Rainbows Album Cover](https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856)](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f)  
 [![Spotify](https://img.shields.io/badge/Spotify-In%20Rainbows%20(Album)-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f)
 
 ---
