@@ -55,7 +55,7 @@
 <p align="center">
 <a href="https://github.com/ShubhamSarda">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayoubnattah&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
@@ -64,13 +64,13 @@
 ### **📊 GitHub Stats**
 
 <!-- GitHub Stats Card -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayoubnattah&show_icons=true&theme=dark&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoubnattah&layout=compact&theme=dark&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark&background=0d1117&border=1f6feb&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ayoubnattah&theme=dark&background=0d1117&border=1f6feb&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
 
 ---
 
@@ -104,7 +104,7 @@
 ### **📈 Contribution Graph**
 
 <!-- GitHub Contribution Graph -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ayoubnattah&theme=react-dark&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9)
 
 ---
 
@@ -113,11 +113,11 @@
 #### **Random Dev Joke**
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&textColor=c9d1d9&qColor=1f6feb&aColor=1f6feb&borderColor=1f6feb)
 
-#### **Spotify Playing**
-[![Spotify](https://spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=1f6feb)](https://open.spotify.com/user/your-spotify-id)
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Your Name](https://github.com/Ayoubnattah)
 
 ---
