@@ -1,4 +1,5 @@
 ![blue-removebg-preview-removebg-preview (1)](https://github.com/user-attachments/assets/34318852-749e-4458-bd9f-4d51e9dfc581)
+![mert](https://github.com/user-attachments/assets/2e27c754-4276-43e9-8cb8-b7d7da125b81)
 
 <h1 align="center">Hi there, I'm Ayoub nattah! 🐋</h1>
 
