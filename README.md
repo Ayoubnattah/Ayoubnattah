@@ -3,10 +3,10 @@
 </div>
 <h1 align="center">Hi there, I'm Ayoub nattah !</h1>
 
-<h3 align="center">🌊 Full Stack Developer | Ocean Explorer | Blue Whale Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Ocean Explorer | Blue Whale Enthusiast</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! Just like the majestic blue whale, I strive to create <strong>big, impactful solutions</strong> with <strong>grace and efficiency</strong>. Let’s dive into the depths of innovation together!
+  Welcome to my GitHub profile! Just like the majestic blue whale, I strive to create <strong>big, impactful solutions</strong> with <strong>grace and efficiency</strong>. Let’s dive into the depths of innovation together! 🌊
 </p>
 
 ---
