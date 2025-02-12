@@ -111,9 +111,15 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/ayoub.nattah/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://www.facebook.com/ayoub.agostino.5/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-shubham__ul-blue"></a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shubhamsarda-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.instagram.com/ayoub.nattah/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-shubham.ul-red?style=for-the-badge">
+  </a>
+  <a href="https://www.facebook.com/ayoub.agostino.5/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-shubham__ul-blue?style=for-the-badge">
+  </a>
 </p>
 
 ---
