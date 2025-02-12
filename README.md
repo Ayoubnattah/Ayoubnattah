@@ -110,17 +110,17 @@
 
 ### 🤝🏻 &nbsp;Connect with Me 
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-shubhamsarda-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ayoub.nattah/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-shubham.ul-red?style=flat-square&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/ayoub.agostino.5/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/-shubham__ul-blue?style=flat-square&logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-</p>
+</div>
 
 ---
 
