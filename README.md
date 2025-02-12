@@ -10,20 +10,16 @@
 </p>
 
 ---
-
-- ### **✨ About Me**
+<!--
+### **✨ About Me**
 
 - 🔭 I’m currently working on **[Project Name]** – a project that [brief description].
 - 🌱 I’m currently learning **[New Technology/Skill]**, diving deeper into [specific area].
-- 👯 I’m looking to collaborate on **Open Source Projects** related to [specific interest, e.g., web development, AI, etc.].
-- 💬 Ask me about **Web Development, Laravel, React.js, or anything tech-related** – I love sharing knowledge!
-- 📫 How to reach me: **[Your Email]** or connect with me on **[LinkedIn Profile]**.
-- 😄 Pronouns: **He/Him** or **She/Her**.
-- ⚡ Fun fact: **I’m fascinated by blue whales and the mysteries of the ocean!** Did you know blue whales are the largest animals to have ever existed? 🐋
-
----
-
-
+- 👯 I’m looking to collaborate on **Open Source Projects** related to [specific interest].
+- 💬 Ask me about **Web Development, Laravel, React.js, or anything tech-related**.
+- 📫 How to reach me: **[Your Email]** or **[LinkedIn Profile]**.
+- ⚡ Fun fact: **Blue whales are the largest animals to have ever existed!** 🐋
+-->
 ### **🛠️ Tech Stack**
 
 #### **Languages**
