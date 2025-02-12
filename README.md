@@ -103,10 +103,7 @@
 ### 📺 YT Videos
 
 <!-- YT-Video-LIST:START -->
-- [Being a Remote Developer - Understanding Pros and Cons of Working Remotely](https://www.youtube.com/watch?v=lAsmBDVPmEU)
-- [Where to get Remote Software Developer Job as a Fresher](https://www.youtube.com/watch?v=n-nbwb6s7ZE)
-- [How To Get An Internship In India? Tips For Computer Science Students](https://www.youtube.com/watch?v=F3kv-gpQPEA)
-- [Advice For Computer Science Students!](https://www.youtube.com/watch?v=OKXsaiwjx5M)
+- [Système de gestion de location de voitures - أسهل نظام لإدارة وكالات تأجير السيارات](https://www.youtube.com/watch?v=90kiBgtWCec)
 <!-- YT-Video-LIST:END -->
 
 ---
@@ -114,10 +111,9 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+<a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://www.instagram.com/ayoub.nattah/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
+<a href="https://www.facebook.com/ayoub.agostino.5/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-shubham__ul-blue"></a>
 </p>
 
 ---
