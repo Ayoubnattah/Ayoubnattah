@@ -112,13 +112,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shubhamsarda-blue?style=for-the-badge">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-shubhamsarda-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ayoub.nattah/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-shubham.ul-red?style=for-the-badge">
+    <img alt="Instagram" src="https://img.shields.io/badge/-shubham.ul-red?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/ayoub.agostino.5/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-shubham__ul-blue?style=for-the-badge">
+    <img alt="Facebook" src="https://img.shields.io/badge/-shubham__ul-blue?style=flat-square&logo=Facebook&logoColor=white" />
   </a>
 </p>
 
