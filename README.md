@@ -11,7 +11,7 @@
 
 ---
 
-### **✨ About Me**
+- ### **✨ About Me**
 
 - 🔭 I’m currently working on **[Project Name]** – a project that [brief description].
 - 🌱 I’m currently learning **[New Technology/Skill]**, diving deeper into [specific area].
@@ -22,6 +22,7 @@
 - ⚡ Fun fact: **I’m fascinated by blue whales and the mysteries of the ocean!** Did you know blue whales are the largest animals to have ever existed? 🐋
 
 ---
+
 
 ### **🛠️ Tech Stack**
 
